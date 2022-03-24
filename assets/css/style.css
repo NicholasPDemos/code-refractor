@@ -86,22 +86,6 @@ aside {
     background-color: #2589bd;
 }
 
-section {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-section h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-section img{
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 article{
     margin-bottom: 20px;
     padding: 50px;
@@ -120,6 +104,21 @@ article h2{
     font-size: 36px;
 }
 
+section {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+section h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+section img{
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
 
 footer {
     padding: 30px;
