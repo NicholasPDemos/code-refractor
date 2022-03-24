@@ -110,10 +110,10 @@ aside {
     max-width: 150px;
 }
 
-
-#search-engine-optimization,
+article{
+/* #search-engine-optimization,
 #online-reputation-management,
-#social-media-marketing {  
+#social-media-marketing {   */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
