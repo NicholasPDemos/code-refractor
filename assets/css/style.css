@@ -86,9 +86,10 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit-lead,
+section {
+/* .benefit-lead,
 .benefit-brand,
-.benefit-cost {
+.benefit-cost { */
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -124,14 +125,6 @@ article{
 #social-media-marketing img {
     max-height: 200px;
 }
-
-/* #online-reputation-management img {
-    max-height: 200px;
-}
-
-#social-media-marketing img {
-    max-height: 200px;
-} */
 
 #search-engine-optimization h2,
 #online-reputation-management h2,
