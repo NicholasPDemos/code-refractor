@@ -118,7 +118,7 @@ section img{
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* adjusted to semantic from  class */
 footer {
     padding: 30px;
     clear: both;
