@@ -9,10 +9,10 @@
 
 
 project location
-https://github.com/NicholasPDemos/code-refractor
 
-live link
-https://nicholaspdemos.github.io/code-refractor/
+[repo link](https://github.com/NicholasPDemos/code-refractor)
+
+[live link](https://nicholaspdemos.github.io/code-refractor/) 
 
 contact info:
 Ndemos83@gmail.com
