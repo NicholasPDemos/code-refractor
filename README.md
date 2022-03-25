@@ -2,7 +2,7 @@
 
 # code-refractor homework
 
-# eddited by
+# edited by
 # Nicholas Demos
 
 
