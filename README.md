@@ -19,3 +19,5 @@ Ndemos83@gmail.com
 
 project example
 ![project preview](./assets/images/code%20refractor%20example.png)
+
+project description: cleaned up redudancy in html and css
